@@ -14,7 +14,7 @@ public class Game extends JFrame {
     private double _windowWidth = _screenSize.getWidth();
     private double _windowHeight = _screenSize.getHeight();
 
-	
+	////////james
 	public Game() {
 		createWindow();
 	}
