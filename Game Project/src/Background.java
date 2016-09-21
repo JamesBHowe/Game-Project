@@ -21,10 +21,6 @@ public class Background extends JPanel {
 
     
     
-    
-
- 
-
     public Background() {
     	
     	try {
